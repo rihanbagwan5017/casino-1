@@ -201,4 +201,5 @@ def menu():
 		
 rules()
 print("~~~~~~~~~~~~~~~~~-->~")
+print("----")                              #code by rihan bagwan
 menu()
